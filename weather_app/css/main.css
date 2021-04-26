@@ -1,0 +1,11 @@
+
+
+.navbar-light .navbar-brand {
+    color: rgb(12, 12, 12);
+}
+
+.btn btn-danger{
+    height:200px;
+    width:200px;
+    align-items: right;
+}
